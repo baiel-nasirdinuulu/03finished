@@ -1,0 +1,79 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+body {
+  width: 50%;
+  margin: 0 auto;
+  background-color: rgb(50, 122, 167);
+}
+.logo {
+  font-family: Baskerville, Palatino, sans-serif;
+  font-size: 2em;
+  color: rgba(255, 255, 255, 0.8);
+  background-color: rgb(191, 91, 116);
+  font-style: italic;
+  text-align: center;
+  padding: 10px;
+  margin-bottom: 30px;
+  border-bottom-left-radius: 10px;
+  border-bottom-right-radius: 10px;
+}
+div nav h1 {
+  font-family: Arial, 'Palatino Linotype', Times, serif;
+  font-size: 2em;
+
+  color: rgb(255, 255, 255);
+  border-bottom-width: 2px;
+  border-bottom-style: solid;
+  border-bottom-color: rgb(87, 185, 178);
+  padding-top: 10px;
+  padding-bottom: 5px;
+  margin: 26px 0;
+}
+header div nav .pr {
+  font-family: 'Kurale', Arial, Helvetica, sans-serif;
+  font-size: 1.2em;
+  color: rgb(255, 255, 255);
+  line-height: 140%;
+  margin: 19px 0px;
+}
+.pr2 {
+  font-family: ' Kurale', Arial, Helvetica, sans-serif;
+  font-size: 1em;
+  color: rgba(255, 255, 255, 0.6);
+  margin: 16px 0;
+}
+.note {
+  font-family: 'Kurale', Arial, Helvetica, sans-serif;
+  font-size: 1em;
+  background-color: rgb(69, 189, 102);
+  color: black;
+  border-color: white;
+  border-width: 2px;
+  border-style: solid;
+  margin: 25px 0;
+  padding: 20px;
+  line-height: 150%;
+}
+p strong {
+  color: white;
+}
+h3 {
+  font-family: Arial, 'Palatino Linotype', Times, serif;
+
+  color: rgb(255, 255, 255);
+  border-bottom-width: 2px;
+  border-bottom-color: white;
+  border-bottom-style: solid;
+  margin: 19px 0;
+}
+h2 {
+  font-family: Arial, 'Palatino Linotype', Times, serif;
+
+  color: rgb(255, 255, 255);
+  border-bottom-width: 2px;
+  border-bottom-color: white;
+  border-bottom-style: solid;
+  margin: 19px 0;
+}
